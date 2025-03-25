@@ -4,13 +4,18 @@ This repository contains a simple Lunar Lander game I built with Python, PyGame 
 
 The Lunar Lander game simulates a spaceship attempting to land safely on a flat surface. You can control the lander’s thrusters to navigate and gently touch down without crashing
 
+*I originally built this as a custom environment to for my other project:
+https://github.com/dt-g7/lunar_lander_ai/tree/main*
+
+
 ## Features
 - Realistic physics simulation using Box2D.
 - Minimal but functional PyGame rendering.
 - Keyboard controls for thrust and rotation.
 - Simple collision detection with a static ground.
 
-#### Here is a video of me playing it
+#### Here is a video of me playing it:
+*(notice that it looks completely different from how the AI, using reinforcement learning, plays it)*
 ![Image](https://github.com/user-attachments/assets/6c84c884-180f-4bf4-b7a0-0152be598f19)
 
 ## Requirements:
